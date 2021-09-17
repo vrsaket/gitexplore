@@ -6,3 +6,4 @@ assets/videos/
 *.txt
 *.mp4
 !app.js
+*.php
