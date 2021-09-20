@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Fun1 - it is not very important function for us .
+=======
+Fun1 - it is very very important function for this .
+>>>>>>> confly
 
 chart branch is added.
